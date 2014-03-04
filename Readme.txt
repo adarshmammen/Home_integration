@@ -1,7 +1,7 @@
 
-                                       Have you watched the YouTube Video?
+                                  Have you watched the YouTube Video?
 
-@                                      http://www.youtube.com/watch?v=3vkgXsmiQMw
+                               http://www.youtube.com/watch?v=3vkgXsmiQMw
 
 
                      This code was originally used when programming the ATmega328
