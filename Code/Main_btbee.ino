@@ -1,4 +1,6 @@
 #include <IRremote.h>
+
+
 IRsend irsend;
 //The durations if raw
 unsigned int AC_ON1[51]={
@@ -117,13 +119,7 @@ void setVol()
 
 
 
-
-
-
-
-
-
-
+// MAIN LOOP BEGINS HERE
 
 
 
